@@ -27,3 +27,5 @@ This project is a perfect example of how modern cloud services can be combined t
 What are your thoughts on this architecture? I'd love to hear your feedback or see any similar projects you've worked on!
 
 hashtag#AWS hashtag#Serverless hashtag#Lambda hashtag#APIGateway hashtag#S3 hashtag#AWSBedrock hashtag#GenerativeAI hashtag#Python hashtag#CloudComputing hashtag#Llama3 hashtag#DevOps hashtag#Tech
+
+https://www.linkedin.com/posts/shanamit16998_aws-serverless-lambda-activity-7362840833596829698-p8SS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB59hNgB2L78yjJclhynWWh8nOLW33gmo0o
